@@ -1,12 +1,12 @@
 * {
-    margin: 10px;
+    margin: 5px;
     padding: 0;
 }
 
 header,
 footer {
     width: 100%;
-    height: 120px;
+    height: 150px;
     background-color: navy;
     color: ghostwhite;
 }
@@ -38,6 +38,6 @@ p {
   .card {
     width: 80%;
     margin: 40px auto;
-    border: 5px solid lightgray;
-    box-shadow: -5px 20px #b4b4b4;
+    border: 5px solid navy;
+    box-shadow: -5px 10px #b4b4b4;
   }
