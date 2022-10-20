@@ -26,11 +26,6 @@ Trilogy Education Services, a 2U, Inc. brand
 
 Please refer to the LICENSE in the repository.
 
-
----
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
 ## Badges
 
 ![confused](https://img.shields.io/badge/status-confused-navy)
